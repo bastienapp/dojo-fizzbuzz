@@ -1,4 +1,4 @@
-# Fizzbuzz
+# FizzBuzz
 
 Créer une méthode qui prend un entier n en paramètre et retourne :
 
@@ -9,5 +9,5 @@ Créer une méthode qui prend un entier n en paramètre et retourne :
 
 Rappel des commande junit :
 
-    javac -cp .:junit-4.12.jar FizzbuzzTest.java
-    java -cp .:junit-4.12.jar:hamcrest-core-1.3.jar org.junit.runner.JUnitCore FizzbuzzTest
+    javac -cp .:junit-4.12.jar FizzBuzzTest.java
+    java -cp .:junit-4.12.jar:hamcrest-core-1.3.jar org.junit.runner.JUnitCore FizzBuzzTest
