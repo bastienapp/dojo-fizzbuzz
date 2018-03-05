@@ -1,6 +1,6 @@
 # FizzBuzz
 
-Créer une méthode qui prend un entier n en paramètre et retourne :
+Créer une méthode qui prend un entier n en argument et retourne :
 
 * "fizz" si n est multiple de 3
 * "buzz" si n est multiple de 5
